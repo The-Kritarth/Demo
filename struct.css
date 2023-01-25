@@ -1,0 +1,57 @@
+body{
+    background-color: #555;
+    margin-left: 35%;
+    margin-right: 35%;
+    color: #ffff;
+    
+}
+
+.heading{
+    font-family: 'Arizonia';
+    font-size: 80px;
+    margin:0;
+    margin-top: 50px;
+
+}
+.msg{
+    font-family: Tahoma, sans-serif;
+    font-size: 140%;
+}
+.profile{
+    display: flex;
+    padding-left: 25%;
+}
+
+.dp{
+    height: 100px;
+    width: 100px;
+    margin-right: 5%;
+    margin-bottom: 35%;
+}
+.btn1{
+    background-color: #555;
+    border-color: #ffff;
+    color: #ffff;
+    border-radius: 5px;
+    display: flex;
+    width: 100%;
+    padding-left: 30%;
+    margin-bottom: 3%;
+}
+.btn1 img{
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.share{
+    display: flex;
+    padding-left: 30%;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.share img{
+    
+    margin-top: 5%;
+    margin-right: 10%;
+}
